@@ -56,7 +56,7 @@ A RandomForestClassifier was trained with cross-validation and saved as `rf_best
 The associated `scaler.joblib` and `feature_cols.joblib` ensure consistent preprocessing.
 
 3. Explainable AI
-- SHAP (TreeExplainer)** identifies per-feature impact.
+- SHAP (TreeExplainer) identifies per-feature impact.
 - LIME approximates local decision boundaries for interpretability.
 
 ---
